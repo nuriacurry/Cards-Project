@@ -2,7 +2,7 @@
 using Cards2;
 
 // loop while there's more input
-string input = Console.ReadLine();
+// string input = Console.ReadLine(); // Commented out to run automatically
 
 // Add your code between this comment
 // and the comment below. You can of
